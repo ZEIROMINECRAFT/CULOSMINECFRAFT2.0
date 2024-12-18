@@ -1012,3 +1012,5 @@
 [18Dec2024 21:12:07.610] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [18Dec2024 21:12:07.621] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-13_03-59-22.zip"
 [18Dec2024 21:12:23.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[18Dec2024 21:18:52.560] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[18Dec2024 21:26:48.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cd17355
