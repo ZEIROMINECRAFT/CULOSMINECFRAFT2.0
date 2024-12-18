@@ -1025,3 +1025,14 @@
 [18Dec2024 21:35:08.114] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
 [18Dec2024 21:35:13.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 21:35:13.384] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:39:27.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 21:39:48.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:39:48.110] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:40:33.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was impaled on a stalagmite
+[18Dec2024 21:40:35.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:40:35.342] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:40:52.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[18Dec2024 21:40:52.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[18Dec2024 21:40:52.840] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 21:40:52.841] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 158717, 158717
+[18Dec2024 21:40:52.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano

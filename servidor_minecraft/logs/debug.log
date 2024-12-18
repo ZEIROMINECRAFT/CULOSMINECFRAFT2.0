@@ -16802,3 +16802,69 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 21:36:30.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 21:36:30.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 21:37:50.327] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Dec2024 21:39:27.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 21:39:30.536] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[18Dec2024 21:39:48.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:39:48.110] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:40:33.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was impaled on a stalagmite
+[18Dec2024 21:40:35.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:40:35.342] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:40:52.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[18Dec2024 21:40:52.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[18Dec2024 21:40:52.840] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 21:40:52.841] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 158717, 158717
+[18Dec2024 21:40:52.841] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: true rainTime: 13084, thundering: false, thunderTime 0, weatherTime: 0, randomTickSpeed: 3, doFireTick: true
+[18Dec2024 21:40:52.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[18Dec2024 21:40:52.845] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of austiano
+[18Dec2024 21:41:10.177] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Dec2024 21:41:10.177] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Dec2024 21:41:30.480] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[18Dec2024 21:41:30.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:41:30.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:41:52.920] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[18Dec2024 21:42:52.920] [Worker-Main18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main18 shutdown
+[18Dec2024 21:43:52.920] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[18Dec2024 21:44:30.427] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Dec2024 21:44:52.920] [Worker-Main10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main10 shutdown
+[18Dec2024 21:45:52.920] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[18Dec2024 21:46:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[18Dec2024 21:46:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[18Dec2024 21:46:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[18Dec2024 21:46:30.496] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[18Dec2024 21:46:30.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[18Dec2024 21:46:30.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:46:30.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:46:52.926] [Worker-Main12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main12 shutdown
+[18Dec2024 21:47:50.377] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Dec2024 21:47:52.926] [Worker-Main6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main6 shutdown
+[18Dec2024 21:48:52.926] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main11 shutdown
+[18Dec2024 21:49:52.926] [Worker-Main20/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main20 shutdown
+[18Dec2024 21:50:52.926] [Worker-Main16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main16 shutdown
+[18Dec2024 21:51:10.227] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[18Dec2024 21:51:10.227] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[18Dec2024 21:51:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[18Dec2024 21:51:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[18Dec2024 21:51:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[18Dec2024 21:51:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[18Dec2024 21:51:30.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[18Dec2024 21:51:30.499] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[18Dec2024 21:51:30.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:51:30.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:51:52.926] [Worker-Main23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main23 shutdown
+[18Dec2024 21:52:52.926] [Worker-Main19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main19 shutdown
+[18Dec2024 21:53:52.926] [Worker-Main24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main24 shutdown
+[18Dec2024 21:54:30.477] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[18Dec2024 21:54:52.926] [Worker-Main15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main15 shutdown
+[18Dec2024 21:55:52.926] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
+[18Dec2024 21:56:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[18Dec2024 21:56:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[18Dec2024 21:56:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[18Dec2024 21:56:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[18Dec2024 21:56:30.482] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[18Dec2024 21:56:30.484] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[18Dec2024 21:56:30.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:56:30.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:56:52.926] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main17 shutdown
+[18Dec2024 21:57:50.427] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[18Dec2024 21:57:52.926] [Worker-Main5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main5 shutdown
+[18Dec2024 21:58:52.926] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main8 shutdown
