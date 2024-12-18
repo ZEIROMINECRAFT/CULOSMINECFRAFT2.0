@@ -1,0 +1,17 @@
+{
+	id: "d25c56b7-e349-3ae3-804f-0d5feb233108"
+	type: "player"
+	player_name: "Ripley_01X"
+	ranks: {
+		d25c56b7-e349-3ae3-804f-0d5feb233108: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ripley_01X"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
