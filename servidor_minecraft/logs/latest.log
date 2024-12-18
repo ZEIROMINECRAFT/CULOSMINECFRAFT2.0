@@ -1155,3 +1155,8 @@
 [18Dec2024 04:37:18.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 04:37:18.802] [Server thread/INFO] [tac/]: PENDING
 [18Dec2024 04:40:16.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['austiano'/266132, l='ServerLevel[world]', x=80.17, y=79.00, z=147.03] died: entity.hordes.ZombiePlayer.chat was slain by austiano
+[18Dec2024 04:40:48.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 04:40:52.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:40:52.508] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:46:27.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement ['X' Marks the Spot]
+[18Dec2024 04:48:44.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['austiano'/301041, l='ServerLevel[world]', x=-51.73, y=119.00, z=36.74] died: entity.hordes.ZombiePlayer.chat was slain by austiano

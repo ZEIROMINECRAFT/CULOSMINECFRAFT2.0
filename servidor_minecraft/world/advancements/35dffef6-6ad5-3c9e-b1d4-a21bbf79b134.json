@@ -166,6 +166,8 @@
       "minecraft:snowy_slopes": "2024-12-18 04:22:50 +0000",
       "minecraft:savanna_plateau": "2024-12-18 03:59:43 +0000",
       "minecraft:stony_peaks": "2024-12-18 04:20:05 +0000",
+      "minecraft:sparse_jungle": "2024-12-18 04:46:15 +0000",
+      "minecraft:river": "2024-12-18 04:39:12 +0000",
       "minecraft:dripstone_caves": "2024-12-18 04:35:59 +0000",
       "minecraft:forest": "2024-12-18 03:59:56 +0000",
       "minecraft:meadow": "2024-12-18 04:22:53 +0000",
@@ -276,6 +278,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 04:46:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-18 03:59:42 +0000"
@@ -299,6 +307,12 @@
       "has_the_recipe": "2024-12-18 03:59:42 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-18 04:46:27 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
