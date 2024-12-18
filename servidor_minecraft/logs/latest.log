@@ -1127,3 +1127,31 @@
 [18Dec2024 04:28:51.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
 [18Dec2024 04:28:59.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 04:28:59.656] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:31:39.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 04:31:40.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:31:40.478] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:31:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01 was kicked for floating too long!
+[18Dec2024 04:31:42.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01 lost connection: Flying is not enabled on this server
+[18Dec2024 04:31:42.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 left the game
+[18Dec2024 04:31:42.754] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9e80b3fa-08c4-3222-bbc1-aa12d44df7dd
+[18Dec2024 04:31:42.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01
+[18Dec2024 04:31:42.860] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 04:33:14.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b413e26
+[18Dec2024 04:33:14.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01[/127.222.173.78:45443] logged in with entity id 277516 at (100.46549499270924, 72.92159999847412, 190.2335589330746)
+[18Dec2024 04:33:14.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 joined the game
+[18Dec2024 04:33:14.919] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:33:14.982] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9e80b3fa-08c4-3222-bbc1-aa12d44df7dd
+[18Dec2024 04:33:18.665] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01 (17)
+[18Dec2024 04:33:18.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01
+[18Dec2024 04:33:33.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 04:35:14.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01 lost connection: Timed out
+[18Dec2024 04:35:14.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 left the game
+[18Dec2024 04:35:14.897] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9e80b3fa-08c4-3222-bbc1-aa12d44df7dd
+[18Dec2024 04:35:14.897] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01
+[18Dec2024 04:36:35.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Runner
+[18Dec2024 04:36:38.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:36:38.890] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:37:16.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 04:37:18.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:37:18.802] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:40:16.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['austiano'/266132, l='ServerLevel[world]', x=80.17, y=79.00, z=147.03] died: entity.hordes.ZombiePlayer.chat was slain by austiano
