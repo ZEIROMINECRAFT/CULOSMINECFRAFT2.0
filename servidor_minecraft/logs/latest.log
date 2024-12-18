@@ -1094,3 +1094,46 @@
 [18Dec2024 05:38:33.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has completed the challenge [Well, that was disgusting]
 [18Dec2024 05:38:35.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 05:38:35.034] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:45:52.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[18Dec2024 05:45:52.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[18Dec2024 05:45:52.809] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 05:45:52.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[18Dec2024 05:45:58.566] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d4763e0
+[18Dec2024 05:45:58.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiano[/127.146.137.114:36925] logged in with entity id 231571 at (-25.69999998807907, 119.0, 33.52037764375208)
+[18Dec2024 05:45:58.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano joined the game
+[18Dec2024 05:45:58.633] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:45:58.788] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 05:45:59.189] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
+[18Dec2024 05:45:59.197] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
+[18Dec2024 05:50:54.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[18Dec2024 05:50:54.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[18Dec2024 05:50:54.179] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 05:50:54.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[18Dec2024 05:50:59.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26e8d862
+[18Dec2024 05:50:59.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiano[/127.146.137.114:60101] logged in with entity id 268060 at (-25.69999998807907, 119.0, 33.30000001192093)
+[18Dec2024 05:50:59.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano joined the game
+[18Dec2024 05:50:59.900] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:51:00.064] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 05:51:00.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
+[18Dec2024 05:51:00.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
+[18Dec2024 05:54:14.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[18Dec2024 05:54:14.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Cyan Transporter
+[18Dec2024 05:56:38.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[18Dec2024 05:56:38.930] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 05:56:38.933] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[18Dec2024 05:56:38.933] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Dec2024 05:56:38.934] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[18Dec2024 05:56:38.935] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[18Dec2024 05:56:40.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:56:40.903] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:57:10.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Suit Up]
+[18Dec2024 05:57:43.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Disme A Dozen]
+[18Dec2024 05:58:03.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[18Dec2024 05:58:03.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[18Dec2024 05:58:03.804] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 05:58:03.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[18Dec2024 05:58:06.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[18Dec2024 05:58:06.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[18Dec2024 05:58:06.047] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[18Dec2024 05:58:06.048] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 124232, 124232
+[18Dec2024 05:58:06.049] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X

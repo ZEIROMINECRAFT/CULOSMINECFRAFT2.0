@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-18 05:57:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
@@ -379,6 +385,12 @@
       "minecraft:plains": "2024-12-18 04:55:54 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2024-12-18 05:57:16 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -419,6 +431,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 05:57:43 +0000"
     },
     "done": true
   },
@@ -487,6 +505,12 @@
       "minecraft:zombie": "2024-12-18 05:16:03 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:39:41 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {
