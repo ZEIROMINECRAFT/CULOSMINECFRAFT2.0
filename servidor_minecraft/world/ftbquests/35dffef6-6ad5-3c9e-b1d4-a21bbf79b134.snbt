@@ -1,0 +1,29 @@
+{
+	version: 1
+	uuid: "35dffef66ad53c9eb1d4a21bbf79b134"
+	name: "austiano"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		74B0906528859AC9: 1
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1734494383815L
+		4523079E2318BD94: 1734494383815L
+		2583DDB195B6CFEA: 1734494383815L
+		0000000000000001: 1734494383815L
+		2C6177EDC934F9DC: 1734494383819L
+		047C5CB3ED9A8E47: 1734494383819L
+		74B0906528859AC9: 1734494797984L
+		5E2FC43BDE206404: 1734494797984L
+		4FA41433E6E6E326: 1734494797984L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

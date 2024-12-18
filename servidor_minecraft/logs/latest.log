@@ -1020,3 +1020,26 @@
 [18Dec2024 03:59:43.082] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
 [18Dec2024 03:59:43.089] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
 [18Dec2024 03:59:52.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9202ms or 184 ticks behind
+[18Dec2024 04:02:34.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01 lost connection: You logged in from another location
+[18Dec2024 04:02:34.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 left the game
+[18Dec2024 04:02:34.010] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9e80b3fa-08c4-3222-bbc1-aa12d44df7dd
+[18Dec2024 04:02:34.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01
+[18Dec2024 04:02:34.072] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f6c5125
+[18Dec2024 04:02:34.109] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 04:02:34.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01[/127.222.173.78:34113] logged in with entity id 24686 at (-7.478125535672708, 149.0, 0.699999988079071)
+[18Dec2024 04:02:34.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 joined the game
+[18Dec2024 04:02:34.219] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:02:34.334] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9e80b3fa-08c4-3222-bbc1-aa12d44df7dd
+[18Dec2024 04:02:34.785] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01 (17)
+[18Dec2024 04:02:34.786] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01
+[18Dec2024 04:05:06.564] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53a6bed3
+[18Dec2024 04:06:40.273] [Server thread/WARN] [dcfixes/]: Block Block{minecraft:grass_block} at -278, 84, 140 was scheduled to create a block entity with data {Command:"spawnRandomCar",auto:1b,conditionMet:1b}, but failed.
+[18Dec2024 04:06:40.427] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=71, z=54} but found not block entity block Block{minecraft:stone} at location
+[18Dec2024 04:06:40.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-259, y=71, z=54}
+[18Dec2024 04:07:14.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01> e
+[18Dec2024 04:08:52.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01 froze to death
+[18Dec2024 04:08:53.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano froze to death
+[18Dec2024 04:08:55.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:08:55.102] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 04:08:55.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 04:08:55.674] [Server thread/INFO] [tac/]: PENDING

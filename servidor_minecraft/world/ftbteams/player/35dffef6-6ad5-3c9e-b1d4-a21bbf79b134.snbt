@@ -1,0 +1,17 @@
+{
+	id: "35dffef6-6ad5-3c9e-b1d4-a21bbf79b134"
+	type: "player"
+	player_name: "austiano"
+	ranks: {
+		35dffef6-6ad5-3c9e-b1d4-a21bbf79b134: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "austiano"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
