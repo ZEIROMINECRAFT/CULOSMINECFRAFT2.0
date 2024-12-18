@@ -1046,3 +1046,55 @@
 [18Dec2024 23:28:34.321] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
 [18Dec2024 23:28:34.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
 [18Dec2024 23:28:34.343] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-18_03-59-28.zip"
+[18Dec2024 23:30:20.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:30:22.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:30:22.511] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:30:48.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:30:53.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:30:53.204] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:31:21.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Husk
+[18Dec2024 23:31:22.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:31:22.961] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:31:37.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Husk
+[18Dec2024 23:31:38.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:31:38.579] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:31:52.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Husk
+[18Dec2024 23:31:53.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:31:53.998] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:32:08.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 23:32:14.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:32:14.293] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:32:24.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:32:26.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:32:26.125] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:32:39.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Husk
+[18Dec2024 23:32:43.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:32:43.256] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:32:57.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 23:32:59.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:32:59.540] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:33:10.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:33:13.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:33:13.262] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:33:20.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:33:23.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:33:23.087] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:33:30.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 23:33:44.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:33:44.373] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:33:58.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:34:12.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:34:12.183] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:34:29.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by entity.hordes.ZombiePlayer.chat
+[18Dec2024 23:34:31.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:34:31.279] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:34:48.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:34:50.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:34:50.781] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:35:11.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:35:19.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:35:19.370] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:35:45.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[18Dec2024 23:35:47.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:35:47.255] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:38:54.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=110, z=-242} BlockPos{x=43, y=109, z=-242}
