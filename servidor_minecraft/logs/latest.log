@@ -1036,3 +1036,13 @@
 [18Dec2024 21:40:52.840] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
 [18Dec2024 21:40:52.841] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 158717, 158717
 [18Dec2024 21:40:52.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[18Dec2024 23:28:33.664] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f825c9e
+[18Dec2024 23:28:33.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiano[/127.146.137.114:58637] logged in with entity id 199092 at (0.5, 149.0, 0.5)
+[18Dec2024 23:28:33.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano joined the game
+[18Dec2024 23:28:33.751] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 23:28:33.887] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[18Dec2024 23:28:33.976] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 1:47:41 at 158717, 158717
+[18Dec2024 23:28:34.318] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[18Dec2024 23:28:34.321] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
+[18Dec2024 23:28:34.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
+[18Dec2024 23:28:34.343] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-18_03-59-28.zip"
