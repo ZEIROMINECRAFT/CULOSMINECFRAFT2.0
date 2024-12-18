@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-18 05:24:29 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-18 03:59:42 +0000"

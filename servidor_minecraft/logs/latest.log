@@ -1059,3 +1059,32 @@
 [18Dec2024 05:18:07.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> -228 91 -28
 [18Dec2024 05:19:26.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
 [18Dec2024 05:19:54.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[18Dec2024 05:20:11.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has completed the challenge [Well, that was disgusting]
+[18Dec2024 05:20:16.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 05:20:17.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by The Moonflower
+[18Dec2024 05:20:18.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:20:18.434] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:20:20.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:20:20.068] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:21:04.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> tp -85 93 92
+[18Dec2024 05:22:21.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Diamonds!]
+[18Dec2024 05:24:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Gone Bananas!]
+[18Dec2024 05:24:36.481] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-262, y=-14, z=-255}
+[18Dec2024 05:24:36.482] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-263, y=-14, z=-255}
+[18Dec2024 05:24:49.876] [Server thread/WARN] [dcfixes/]: Block Block{minecraft:oak_leaves} at -390, 96, 412 was scheduled to create a block entity with data {Command:"spawnRandomCar",auto:1b,conditionMet:1b}, but failed.
+[18Dec2024 05:25:39.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 05:25:43.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:25:43.128] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:26:35.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 05:26:36.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:26:36.638] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:26:44.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 05:26:46.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:26:46.191] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:27:00.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 05:27:01.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:27:01.986] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:27:28.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> -218 90 212
+[18Dec2024 05:28:08.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[18Dec2024 05:28:13.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:28:13.021] [Server thread/INFO] [tac/]: PENDING
