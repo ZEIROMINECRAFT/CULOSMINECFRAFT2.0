@@ -1098,3 +1098,6 @@
 [18Dec2024 23:35:47.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 23:35:47.255] [Server thread/INFO] [tac/]: PENDING
 [18Dec2024 23:38:54.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=110, z=-242} BlockPos{x=43, y=109, z=-242}
+[18Dec2024 23:40:10.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano burned to death
+[18Dec2024 23:40:11.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 23:40:11.967] [Server thread/INFO] [tac/]: PENDING

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2024-12-18 23:40:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-18 03:59:43 +0000"
@@ -248,6 +254,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-18 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2024-12-18 23:45:34 +0000"
     },
     "done": true
   },
@@ -371,6 +383,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2024-12-18 23:40:04 +0000",
+      "rainforest": "2024-12-18 23:40:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-18 04:22:50 +0000",
@@ -380,11 +399,18 @@
       "minecraft:river": "2024-12-18 04:39:12 +0000",
       "minecraft:dripstone_caves": "2024-12-18 04:35:59 +0000",
       "minecraft:forest": "2024-12-18 03:59:56 +0000",
+      "minecraft:jungle": "2024-12-18 23:39:38 +0000",
       "minecraft:meadow": "2024-12-18 04:22:53 +0000",
       "minecraft:savanna": "2024-12-18 04:29:37 +0000",
       "minecraft:plains": "2024-12-18 04:24:12 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_feather": "2024-12-18 23:45:34 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -601,6 +627,12 @@
     "criteria": {
       "has_blazepowder": "2024-12-18 03:59:43 +0000",
       "has_bolt": "2024-12-18 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_feather": "2024-12-18 23:45:34 +0000"
     },
     "done": true
   },
