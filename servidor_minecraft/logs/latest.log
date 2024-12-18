@@ -1088,3 +1088,9 @@
 [18Dec2024 05:28:08.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
 [18Dec2024 05:28:13.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [18Dec2024 05:28:13.021] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 05:35:17.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> -218 90 217
+[18Dec2024 05:37:41.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Dec2024 05:38:33.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano died because of The Bomber
+[18Dec2024 05:38:33.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has completed the challenge [Well, that was disgusting]
+[18Dec2024 05:38:35.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 05:38:35.034] [Server thread/INFO] [tac/]: PENDING
