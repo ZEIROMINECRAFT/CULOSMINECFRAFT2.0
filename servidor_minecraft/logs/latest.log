@@ -1014,3 +1014,14 @@
 [18Dec2024 21:12:23.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
 [18Dec2024 21:18:52.560] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
 [18Dec2024 21:26:48.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cd17355
+[18Dec2024 21:28:52.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was impaled on a stalagmite
+[18Dec2024 21:29:09.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:29:09.226] [Server thread/INFO] [tac/]: PENDING
+[18Dec2024 21:35:08.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[18Dec2024 21:35:08.108] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 21:35:08.111] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[18Dec2024 21:35:08.111] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Dec2024 21:35:08.112] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[18Dec2024 21:35:08.114] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[18Dec2024 21:35:13.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Dec2024 21:35:13.384] [Server thread/INFO] [tac/]: PENDING
