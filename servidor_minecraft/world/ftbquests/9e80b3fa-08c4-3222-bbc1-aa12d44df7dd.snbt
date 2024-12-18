@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "9e80b3fa08c43222bbc1aa12d44df7dd"
+	name: "Ripley_01"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1734062360677L
+		4523079E2318BD94: 1734062360677L
+		2583DDB195B6CFEA: 1734062360677L
+		0000000000000001: 1734062360677L
+		2C6177EDC934F9DC: 1734062360681L
+		047C5CB3ED9A8E47: 1734062360681L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
