@@ -1036,3 +1036,18 @@
 [19Dec2024 04:40:29.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
 [19Dec2024 04:40:31.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [19Dec2024 04:40:31.211] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 04:45:32.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Timed out
+[19Dec2024 04:45:32.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[19Dec2024 04:45:32.552] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[19Dec2024 04:45:32.552] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 258599, 258599
+[19Dec2024 04:45:32.553] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[19Dec2024 04:45:32.634] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:48:25.178] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e75b8ea
+[19Dec2024 04:48:25.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01X[/127.159.1.115:41321] logged in with entity id 123187 at (-275.7873328735057, 102.6875, 247.82290568048796)
+[19Dec2024 04:48:25.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X joined the game
+[19Dec2024 04:48:25.340] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 04:48:25.411] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[19Dec2024 04:48:25.504] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:02:52 at 258599, 258599
+[19Dec2024 04:48:26.888] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01X (17)
+[19Dec2024 04:48:26.895] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01X
+[19Dec2024 04:52:27.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Ripley_01X'/123191, l='ServerLevel[world]', x=-280.70, y=90.00, z=247.68] died: entity.hordes.ZombiePlayer.chat hit the ground too hard

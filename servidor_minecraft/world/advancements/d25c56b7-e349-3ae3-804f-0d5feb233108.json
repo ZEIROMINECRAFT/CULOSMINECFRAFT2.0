@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-19 04:41:25 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2024-12-18 05:20:11 +0000"
