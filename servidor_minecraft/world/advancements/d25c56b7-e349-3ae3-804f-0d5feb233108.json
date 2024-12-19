@@ -379,6 +379,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-19 05:19:34 +0000",
       "mediterranean_forest": "2024-12-18 05:26:28 +0000"
     },
     "done": false

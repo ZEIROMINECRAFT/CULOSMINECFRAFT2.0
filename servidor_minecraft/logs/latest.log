@@ -1061,3 +1061,36 @@
 [19Dec2024 04:56:47.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [19Dec2024 04:56:47.869] [Server thread/INFO] [tac/]: PENDING
 [19Dec2024 04:58:15.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19Dec2024 05:08:30.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: You logged in from another location
+[19Dec2024 05:08:30.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[19Dec2024 05:08:30.557] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[19Dec2024 05:08:30.558] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 282667, 282667
+[19Dec2024 05:08:30.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[19Dec2024 05:08:30.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01X[/127.159.1.115:55933] logged in with entity id 260075 at (-301.5, 102.01000061035157, 279.5)
+[19Dec2024 05:08:30.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X joined the game
+[19Dec2024 05:08:30.657] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 05:08:30.796] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[19Dec2024 05:08:30.863] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:00:00 at 282667, 282667
+[19Dec2024 05:08:31.063] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01X (17)
+[19Dec2024 05:08:31.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01X
+[19Dec2024 05:12:24.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[19Dec2024 05:12:24.963] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Dec2024 05:12:24.966] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 16 is dual wielding: false
+[19Dec2024 05:12:24.967] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Dec2024 05:12:24.969] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Dec2024 05:12:24.970] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[19Dec2024 05:12:26.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@797205bd
+[19Dec2024 05:12:26.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[19Dec2024 05:12:26.526] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 05:13:10.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Ripley_01X'/290785, l='ServerLevel[world]', x=-293.30, y=96.00, z=280.05] died: entity.hordes.ZombiePlayer.chat was slain by Ripley_01X
+[19Dec2024 05:19:36.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[19Dec2024 05:19:39.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[19Dec2024 05:19:39.355] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 05:20:05.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by entity.hordes.ZombiePlayer.chat
+[19Dec2024 05:20:06.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[19Dec2024 05:20:06.664] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 05:20:50.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[19Dec2024 05:20:50.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[19Dec2024 05:20:50.124] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[19Dec2024 05:20:50.125] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 297458, 297458
+[19Dec2024 05:20:50.126] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
