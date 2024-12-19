@@ -169,6 +169,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-19 00:05:15 +0000",
       "cookie": "2024-12-18 23:46:46 +0000"
     },
     "done": false
@@ -392,6 +393,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-18 23:40:04 +0000",
+      "clover_patch": "2024-12-18 23:57:06 +0000",
       "rainforest": "2024-12-18 23:40:06 +0000"
     },
     "done": false
