@@ -9,3 +9,9 @@
 [19Dec2024 00:29:30.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Runner
 [19Dec2024 00:29:31.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [19Dec2024 00:29:31.474] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 00:33:17.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Runner
+[19Dec2024 00:33:21.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[19Dec2024 00:33:21.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[19Dec2024 00:33:21.385] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[19Dec2024 00:33:21.393] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 236471, 236471
+[19Dec2024 00:33:21.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano

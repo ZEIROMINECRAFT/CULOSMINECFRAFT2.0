@@ -17670,3 +17670,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 00:29:31.194] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
 [19Dec2024 00:29:31.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [19Dec2024 00:29:31.474] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 00:31:11.027] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Dec2024 00:31:11.027] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Dec2024 00:31:30.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:31:30.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:32:03.290] [IO-Worker-304/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[19Dec2024 00:33:17.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Runner
+[19Dec2024 00:33:21.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[19Dec2024 00:33:21.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[19Dec2024 00:33:21.385] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[19Dec2024 00:33:21.393] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 236471, 236471
+[19Dec2024 00:33:21.395] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: false rainTime: 13084, thundering: false, thunderTime 0, weatherTime: 0, randomTickSpeed: 3, doFireTick: true
+[19Dec2024 00:33:21.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[19Dec2024 00:33:21.405] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of austiano
+[19Dec2024 00:33:21.896] [IO-Worker-304/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[19Dec2024 00:34:21.462] [Worker-Main203/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main203 shutdown
+[19Dec2024 00:34:31.277] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Dec2024 00:35:21.462] [Worker-Main205/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main205 shutdown
+[19Dec2024 00:36:21.462] [Worker-Main224/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main224 shutdown
+[19Dec2024 00:36:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[19Dec2024 00:36:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[19Dec2024 00:36:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[19Dec2024 00:36:30.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[19Dec2024 00:36:30.481] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[19Dec2024 00:36:30.481] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[19Dec2024 00:36:30.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[19Dec2024 00:36:30.483] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[19Dec2024 00:36:30.493] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[19Dec2024 00:36:30.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:36:30.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:37:21.462] [Worker-Main202/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main202 shutdown
+[19Dec2024 00:37:51.227] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Dec2024 00:38:21.462] [Worker-Main215/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main215 shutdown
+[19Dec2024 00:39:21.462] [Worker-Main206/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main206 shutdown
+[19Dec2024 00:40:21.462] [Worker-Main217/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main217 shutdown
