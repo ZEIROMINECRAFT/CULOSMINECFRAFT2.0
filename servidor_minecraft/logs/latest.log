@@ -15,3 +15,21 @@
 [19Dec2024 00:33:21.385] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
 [19Dec2024 00:33:21.393] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 236471, 236471
 [19Dec2024 00:33:21.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[19Dec2024 00:43:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 00:43:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 00:43:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 00:43:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 00:43:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 00:43:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 00:43:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[19Dec2024 00:43:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[19Dec2024 00:43:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[19Dec2024 00:43:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 00:43:25.689] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[19Dec2024 00:43:25.697] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[19Dec2024 00:43:25.713] [Server thread/INFO] [configured/]: Unloading server configs...
+[19Dec2024 00:43:25.714] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

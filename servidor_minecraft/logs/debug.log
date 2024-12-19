@@ -17704,3 +17704,107 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 00:38:21.462] [Worker-Main215/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main215 shutdown
 [19Dec2024 00:39:21.462] [Worker-Main206/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main206 shutdown
 [19Dec2024 00:40:21.462] [Worker-Main217/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main217 shutdown
+[19Dec2024 00:41:11.077] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Dec2024 00:41:11.077] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Dec2024 00:41:21.462] [Worker-Main212/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main212 shutdown
+[19Dec2024 00:41:30.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[19Dec2024 00:41:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[19Dec2024 00:41:30.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[19Dec2024 00:41:30.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[19Dec2024 00:41:30.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[19Dec2024 00:41:30.484] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[19Dec2024 00:41:30.486] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-321
+[19Dec2024 00:41:30.488] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
+[19Dec2024 00:41:30.488] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-324
+[19Dec2024 00:41:30.488] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-323
+[19Dec2024 00:41:30.491] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-325
+[19Dec2024 00:41:30.491] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-326
+[19Dec2024 00:41:30.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:41:30.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:42:21.462] [Worker-Main210/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main210 shutdown
+[19Dec2024 00:43:21.462] [Worker-Main207/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main207 shutdown
+[19Dec2024 00:43:24.536] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[19Dec2024 00:43:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 00:43:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 00:43:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 00:43:24.565] [Worker-Main221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main327
+[19Dec2024 00:43:24.566] [Worker-Main209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main336
+[19Dec2024 00:43:24.566] [Worker-Main211/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main335
+[19Dec2024 00:43:24.566] [Worker-Main213/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main334
+[19Dec2024 00:43:24.566] [Worker-Main219/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main333
+[19Dec2024 00:43:24.566] [Worker-Main208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main332
+[19Dec2024 00:43:24.566] [Worker-Main216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main331
+[19Dec2024 00:43:24.566] [Worker-Main204/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main330
+[19Dec2024 00:43:24.566] [Worker-Main220/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main329
+[19Dec2024 00:43:24.566] [Worker-Main218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main328
+[19Dec2024 00:43:24.607] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-337
+[19Dec2024 00:43:24.661] [IO-Worker-337/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-338
+[19Dec2024 00:43:24.671] [IO-Worker-337/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-339
+[19Dec2024 00:43:24.676] [IO-Worker-337/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-340
+[19Dec2024 00:43:24.959] [IO-Worker-340/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-341
+[19Dec2024 00:43:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 00:43:25.412] [IO-Worker-341/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-342
+[19Dec2024 00:43:25.413] [IO-Worker-340/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-343
+[19Dec2024 00:43:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 00:43:25.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-344
+[19Dec2024 00:43:25.499] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-345
+[19Dec2024 00:43:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 00:43:25.500] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-346
+[19Dec2024 00:43:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[19Dec2024 00:43:25.503] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-347
+[19Dec2024 00:43:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[19Dec2024 00:43:25.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:43:25.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 00:43:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[19Dec2024 00:43:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[19Dec2024 00:43:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 00:43:25.634] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[19Dec2024 00:43:25.635] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$1d717a$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[19Dec2024 00:43:25.636] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$1d717a$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[19Dec2024 00:43:25.645] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[19Dec2024 00:43:25.645] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[19Dec2024 00:43:25.683] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[19Dec2024 00:43:25.683] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[19Dec2024 00:43:25.683] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[19Dec2024 00:43:25.683] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[19Dec2024 00:43:25.684] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[19Dec2024 00:43:25.684] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[19Dec2024 00:43:25.684] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for null
+[19Dec2024 00:43:25.684] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for null
+[19Dec2024 00:43:25.685] [Worker-Main327/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main327 shutdown
+[19Dec2024 00:43:25.685] [Worker-Main221/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main221 shutdown
+[19Dec2024 00:43:25.685] [Worker-Main328/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main328 shutdown
+[19Dec2024 00:43:25.685] [Worker-Main329/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main329 shutdown
+[19Dec2024 00:43:25.685] [Worker-Main218/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main218 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main220/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main220 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main330/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main330 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main204/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main204 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main331/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main331 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main216/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main216 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main332/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main332 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main208/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main208 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main333/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main333 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main219/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main219 shutdown
+[19Dec2024 00:43:25.686] [Worker-Main334/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main334 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main213/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main213 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main335/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main335 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main336/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main336 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main211/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main211 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main223/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main223 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main214/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main214 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main209/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main209 shutdown
+[19Dec2024 00:43:25.687] [Worker-Main222/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main222 shutdown
+[19Dec2024 00:43:25.688] [Server thread/DEBUG] [immersivepetroleum/]: [ReservoirIslands]: Clearing Cache...
+[19Dec2024 00:43:25.689] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Dec2024 00:43:25.689] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Dec2024 00:43:25.689] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Dec2024 00:43:25.689] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[19Dec2024 00:43:25.697] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[19Dec2024 00:43:25.713] [Server thread/INFO] [configured/]: Unloading server configs...
+[19Dec2024 00:43:25.714] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[19Dec2024 00:43:25.714] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[19Dec2024 00:43:25.723] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[19Dec2024 00:43:25.723] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
