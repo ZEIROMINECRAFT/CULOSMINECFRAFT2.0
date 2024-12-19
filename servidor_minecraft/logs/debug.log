@@ -17630,3 +17630,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 00:16:30.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 00:17:51.127] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [19Dec2024 00:19:52.437] [IO-Worker-283/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-284
+[19Dec2024 00:21:00.234] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-285
+[19Dec2024 00:21:10.977] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19Dec2024 00:21:10.978] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19Dec2024 00:21:30.511] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-286
+[19Dec2024 00:21:30.511] [IO-Worker-283/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-287
+[19Dec2024 00:21:30.512] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-288
+[19Dec2024 00:21:30.514] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-289
+[19Dec2024 00:21:30.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-290
+[19Dec2024 00:21:30.516] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[19Dec2024 00:21:30.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:21:30.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:23:26.038] [IO-Worker-290/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[19Dec2024 00:24:29.640] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[19Dec2024 00:24:31.227] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19Dec2024 00:26:15.235] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[19Dec2024 00:26:30.500] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[19Dec2024 00:26:30.520] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[19Dec2024 00:26:30.520] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[19Dec2024 00:26:30.523] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[19Dec2024 00:26:30.525] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[19Dec2024 00:26:30.525] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[19Dec2024 00:26:30.526] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[19Dec2024 00:26:30.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:26:30.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:26:37.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[19Dec2024 00:26:37.168] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Dec2024 00:26:37.169] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Dec2024 00:26:37.170] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Dec2024 00:26:37.170] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Dec2024 00:26:37.171] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[19Dec2024 00:26:41.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[19Dec2024 00:26:41.780] [Server thread/INFO] [tac/]: PENDING
+[19Dec2024 00:27:51.177] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[19Dec2024 00:28:02.602] [IO-Worker-298/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[19Dec2024 00:28:02.603] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[19Dec2024 00:29:30.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Runner
+[19Dec2024 00:29:31.181] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[19Dec2024 00:29:31.194] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[19Dec2024 00:29:31.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[19Dec2024 00:29:31.474] [Server thread/INFO] [tac/]: PENDING
