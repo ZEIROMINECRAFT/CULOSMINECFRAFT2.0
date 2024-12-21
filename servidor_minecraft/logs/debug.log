@@ -17281,3 +17281,70 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 05:11:26.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
 [21Dec2024 05:11:26.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 05:11:26.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:12:20.024] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 05:13:16.902] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[21Dec2024 05:15:02.471] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[21Dec2024 05:15:02.479] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[21Dec2024 05:15:20.476] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[21Dec2024 05:15:40.015] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 05:15:40.015] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 05:16:26.876] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[21Dec2024 05:16:26.889] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[21Dec2024 05:16:26.896] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[21Dec2024 05:16:26.903] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[21Dec2024 05:16:26.911] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[21Dec2024 05:16:27.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 05:16:27.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:18:08.615] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[21Dec2024 05:18:08.630] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[21Dec2024 05:18:08.634] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[21Dec2024 05:18:08.635] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[21Dec2024 05:18:08.639] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[21Dec2024 05:18:08.652] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[21Dec2024 05:18:08.662] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[21Dec2024 05:18:08.667] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[21Dec2024 05:18:08.686] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[21Dec2024 05:18:08.700] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[21Dec2024 05:18:08.711] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[21Dec2024 05:18:08.720] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[21Dec2024 05:18:08.729] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[21Dec2024 05:18:08.736] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[21Dec2024 05:18:08.741] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[21Dec2024 05:18:08.748] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[21Dec2024 05:18:08.758] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[21Dec2024 05:18:08.799] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[21Dec2024 05:18:08.813] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[21Dec2024 05:18:08.827] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[21Dec2024 05:18:08.835] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[21Dec2024 05:18:08.841] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[21Dec2024 05:18:08.845] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[21Dec2024 05:18:08.854] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[21Dec2024 05:18:08.926] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[21Dec2024 05:18:08.981] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[21Dec2024 05:18:09.047] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[21Dec2024 05:18:09.271] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[21Dec2024 05:18:09.632] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[21Dec2024 05:18:09.707] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[21Dec2024 05:18:09.736] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[21Dec2024 05:18:09.758] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[21Dec2024 05:18:09.776] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[21Dec2024 05:18:09.780] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[21Dec2024 05:18:09.787] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[21Dec2024 05:18:09.797] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[21Dec2024 05:18:09.808] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[21Dec2024 05:18:09.854] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[21Dec2024 05:18:09.876] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[21Dec2024 05:18:09.905] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[21Dec2024 05:18:09.929] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[21Dec2024 05:18:10.145] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[21Dec2024 05:18:13.259] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[21Dec2024 05:18:35.834] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[21Dec2024 05:18:35.838] [IO-Worker-129/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[21Dec2024 05:19:00.515] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 05:20:20.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Penteconter]
+[21Dec2024 05:21:05.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:169:112:216:15:false:0:Internal-overworld-waypoints
+[21Dec2024 05:21:26.818] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[21Dec2024 05:21:26.845] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[21Dec2024 05:21:26.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 05:21:26.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:22:20.065] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
