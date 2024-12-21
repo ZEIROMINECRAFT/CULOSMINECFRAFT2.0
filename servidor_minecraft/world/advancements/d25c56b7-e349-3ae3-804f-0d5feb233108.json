@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-12-21 03:03:42 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-18 04:53:25 +0000"
@@ -384,6 +390,12 @@
       "lavender_field": "2024-12-21 02:37:12 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-21 02:59:39 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -596,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-21 02:59:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
@@ -605,6 +623,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-21 02:59:39 +0000"
     },
     "done": true
   },
@@ -618,6 +642,12 @@
     "criteria": {
       "has_blazepowder": "2024-12-18 04:53:25 +0000",
       "has_bolt": "2024-12-18 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_feather": "2024-12-21 02:59:39 +0000"
     },
     "done": true
   },

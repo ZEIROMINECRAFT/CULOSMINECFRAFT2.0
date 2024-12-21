@@ -17698,3 +17698,63 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 02:47:24.695] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
 [21Dec2024 02:47:27.582] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
 [21Dec2024 02:47:27.583] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[21Dec2024 02:48:38.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> xaero-waypoint:Shared Location:S:-231:110:-213:0:false:0:Internal-overworld-waypoints
+[21Dec2024 02:48:49.118] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 02:48:49.118] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 02:49:23.135] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[21Dec2024 02:49:31.849] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[21Dec2024 02:49:31.850] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[21Dec2024 02:49:31.857] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[21Dec2024 02:49:31.859] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[21Dec2024 02:49:31.861] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[21Dec2024 02:49:32.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 02:49:32.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 02:49:32.121] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[21Dec2024 02:50:19.544] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[21Dec2024 02:51:38.255] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ripley_01X: {disabled=true, disconnected=true, uuid=d25c56b7-e349-3ae3-804f-0d5feb233108, name=Ripley_01X, group=null}
+[21Dec2024 02:52:09.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 02:52:11.845] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ripley_01X: {disabled=false, disconnected=true, uuid=d25c56b7-e349-3ae3-804f-0d5feb233108, name=Ripley_01X, group=null}
+[21Dec2024 02:52:32.083] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[21Dec2024 02:54:31.843] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[21Dec2024 02:54:31.848] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[21Dec2024 02:54:31.849] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[21Dec2024 02:54:31.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 02:54:32.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 02:55:29.268] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 02:56:00.445] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[21Dec2024 02:56:16.947] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[21Dec2024 02:56:22.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X hit the ground too hard
+[21Dec2024 02:56:24.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 02:56:24.764] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 02:58:49.168] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 02:58:49.168] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 02:58:50.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was struck by lightning whilst fighting Ripley_01X
+[21Dec2024 02:58:54.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 02:58:54.165] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 02:59:00.298] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[21Dec2024 02:59:11.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[21Dec2024 02:59:14.049] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[21Dec2024 02:59:14.049] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[21Dec2024 02:59:18.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 02:59:18.343] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 02:59:31.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 02:59:32.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 02:59:39.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Stone Age]
+[21Dec2024 02:59:39.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Getting an Upgrade]
+[21Dec2024 02:59:39.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Acquire Hardware]
+[21Dec2024 03:02:09.568] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 03:02:49.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[21Dec2024 03:02:50.182] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[21Dec2024 03:02:52.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 03:02:52.798] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 03:02:54.243] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[21Dec2024 03:02:54.578] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[21Dec2024 03:03:08.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:276:227:51:13:false:0:Internal-overworld-waypoints
+[21Dec2024 03:03:42.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Connecting]
+[21Dec2024 03:03:59.933] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[21Dec2024 03:04:31.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 03:04:31.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:05:23.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> xaero-waypoint:Shared Location:S:221:70:39:14:false:0:Internal-overworld-waypoints
+[21Dec2024 03:05:29.320] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 03:06:38.933] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[21Dec2024 03:06:50.539] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
