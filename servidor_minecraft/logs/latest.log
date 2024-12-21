@@ -1062,3 +1062,16 @@
 [21Dec2024 04:25:30.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/48540, l='ServerLevel[world]', x=-52.52, y=129.00, z=211.14]
 [21Dec2024 04:25:58.306] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10589d2f
 [21Dec2024 04:27:14.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:268:219:57:9:false:0:Internal-overworld-waypoints
+[21Dec2024 04:31:40.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Amateur Archaeologist]
+[21Dec2024 04:34:08.848] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:34:44.103] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:38:02.342] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:43:46.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:144:74:223:3:false:0:Internal-overworld-waypoints
+[21Dec2024 04:48:32.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Dec2024 04:50:31.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.6534529965483955
+[21Dec2024 04:50:32.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.8837808991109171
+[21Dec2024 04:50:48.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.3267525795954498
+[21Dec2024 04:50:48.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.7706812299939543
+[21Dec2024 04:50:48.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 1.1581115882550534
+[21Dec2024 04:50:48.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38040841036672646
+[21Dec2024 04:50:48.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38150594802198157

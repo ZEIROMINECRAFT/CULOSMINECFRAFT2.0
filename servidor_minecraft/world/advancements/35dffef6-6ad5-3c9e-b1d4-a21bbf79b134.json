@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-21 04:31:40 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2024-12-18 05:38:33 +0000"
@@ -424,6 +430,7 @@
       "minecraft:jagged_peaks": "2024-12-21 01:40:36 +0000",
       "minecraft:forest": "2024-12-18 03:59:56 +0000",
       "minecraft:jungle": "2024-12-18 23:39:38 +0000",
+      "minecraft:ocean": "2024-12-21 04:49:59 +0000",
       "minecraft:flower_forest": "2024-12-21 01:41:59 +0000",
       "minecraft:meadow": "2024-12-18 04:22:53 +0000",
       "minecraft:savanna": "2024-12-18 04:29:37 +0000",
@@ -554,7 +561,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2024-12-18 04:24:43 +0000",
-      "minecraft:zombie": "2024-12-18 04:23:16 +0000"
+      "minecraft:zombie": "2024-12-18 04:23:16 +0000",
+      "minecraft:zombie_villager": "2024-12-21 04:39:41 +0000"
     },
     "done": false
   },

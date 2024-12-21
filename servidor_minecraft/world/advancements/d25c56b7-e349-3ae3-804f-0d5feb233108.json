@@ -413,9 +413,11 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-21 02:35:48 +0000",
       "minecraft:savanna_plateau": "2024-12-18 04:53:25 +0000",
+      "minecraft:river": "2024-12-21 04:50:19 +0000",
       "minecraft:stony_shore": "2024-12-21 02:37:04 +0000",
       "minecraft:jagged_peaks": "2024-12-21 02:35:05 +0000",
       "minecraft:forest": "2024-12-18 04:54:12 +0000",
+      "minecraft:ocean": "2024-12-21 04:49:55 +0000",
       "minecraft:savanna": "2024-12-18 04:55:30 +0000",
       "minecraft:plains": "2024-12-18 04:55:54 +0000"
     },

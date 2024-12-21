@@ -17137,3 +17137,88 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 04:31:22.878] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
 [21Dec2024 04:31:22.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 04:31:22.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:31:40.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Amateur Archaeologist]
+[21Dec2024 04:32:19.865] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 04:33:30.876] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Dec2024 04:34:05.496] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[21Dec2024 04:34:08.848] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:34:44.103] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:35:39.815] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 04:35:39.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 04:36:22.816] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[21Dec2024 04:36:22.818] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Dec2024 04:36:22.818] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[21Dec2024 04:36:22.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:36:23.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:38:02.342] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Dec2024 04:39:00.374] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 04:39:18.872] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[21Dec2024 04:39:49.490] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[21Dec2024 04:39:53.893] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[21Dec2024 04:41:22.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:41:22.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:42:19.915] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 04:42:26.674] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[21Dec2024 04:43:46.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:144:74:223:3:false:0:Internal-overworld-waypoints
+[21Dec2024 04:44:41.074] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[21Dec2024 04:44:41.083] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[21Dec2024 04:45:39.865] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 04:45:39.865] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 04:46:22.853] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[21Dec2024 04:46:22.860] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[21Dec2024 04:46:22.865] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[21Dec2024 04:46:22.866] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[21Dec2024 04:46:22.868] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[21Dec2024 04:46:22.869] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[21Dec2024 04:46:22.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:46:22.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:47:08.635] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[21Dec2024 04:47:08.635] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Dec2024 04:48:26.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[21Dec2024 04:48:27.928] [Worker-Main22/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Dec2024 04:48:28.020] [Worker-Main27/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Dec2024 04:48:30.118] [Worker-Main21/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ussnavy
+[21Dec2024 04:48:32.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Dec2024 04:48:36.205] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[21Dec2024 04:48:36.215] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[21Dec2024 04:48:36.228] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[21Dec2024 04:48:36.299] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[21Dec2024 04:48:36.539] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[21Dec2024 04:48:36.847] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[21Dec2024 04:48:37.046] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[21Dec2024 04:48:37.254] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[21Dec2024 04:48:37.363] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[21Dec2024 04:48:37.683] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[21Dec2024 04:48:37.818] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[21Dec2024 04:48:38.119] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[21Dec2024 04:48:38.187] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[21Dec2024 04:48:38.205] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[21Dec2024 04:48:38.226] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[21Dec2024 04:49:00.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 04:50:16.748] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[21Dec2024 04:50:16.748] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[21Dec2024 04:50:31.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.6534529965483955
+[21Dec2024 04:50:32.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.8837808991109171
+[21Dec2024 04:50:45.907] [Worker-Main24/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Dec2024 04:50:48.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.3267525795954498
+[21Dec2024 04:50:48.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.7706812299939543
+[21Dec2024 04:50:48.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 1.1581115882550534
+[21Dec2024 04:50:48.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38040841036672646
+[21Dec2024 04:50:48.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38150594802198157
+[21Dec2024 04:51:24.884] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[21Dec2024 04:51:24.888] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[21Dec2024 04:51:24.889] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[21Dec2024 04:51:24.890] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[21Dec2024 04:51:24.923] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[21Dec2024 04:51:24.924] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[21Dec2024 04:51:24.924] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[21Dec2024 04:51:24.933] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[21Dec2024 04:51:24.934] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[21Dec2024 04:51:24.939] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[21Dec2024 04:51:24.940] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[21Dec2024 04:51:24.946] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[21Dec2024 04:51:24.946] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[21Dec2024 04:51:24.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[21Dec2024 04:51:24.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:51:25.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:51:30.266] [Worker-Main5/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 1]
