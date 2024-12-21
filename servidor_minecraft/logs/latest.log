@@ -1088,3 +1088,30 @@
 [21Dec2024 05:00:51.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has completed the challenge [Yo mama so fat, she can summon zombies]
 [21Dec2024 05:20:20.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Penteconter]
 [21Dec2024 05:21:05.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:169:112:216:15:false:0:Internal-overworld-waypoints
+[21Dec2024 05:26:37.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[21Dec2024 05:26:37.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[21Dec2024 05:26:37.495] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[21Dec2024 05:26:37.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[21Dec2024 05:26:40.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[21Dec2024 05:26:40.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[21Dec2024 05:26:40.625] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[21Dec2024 05:26:40.627] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 527740, 563800
+[21Dec2024 05:26:40.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[21Dec2024 05:26:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 05:26:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 05:26:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 05:26:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 05:26:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 05:26:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[21Dec2024 05:26:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[21Dec2024 05:26:54.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 05:26:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 05:26:54.848] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[21Dec2024 05:26:54.849] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[21Dec2024 05:26:54.851] [Server thread/INFO] [configured/]: Unloading server configs...
+[21Dec2024 05:26:54.853] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
