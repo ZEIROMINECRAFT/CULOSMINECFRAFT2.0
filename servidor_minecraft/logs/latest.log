@@ -1107,3 +1107,13 @@
 [21Dec2024 03:05:23.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> xaero-waypoint:Shared Location:S:221:70:39:14:false:0:Internal-overworld-waypoints
 [21Dec2024 03:11:14.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Disme A Dozen]
 [21Dec2024 03:12:00.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Close Quarters]
+[21Dec2024 03:20:38.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[21Dec2024 03:21:16.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiano lost connection: Disconnected
+[21Dec2024 03:21:16.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano left the game
+[21Dec2024 03:21:16.630] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[21Dec2024 03:21:16.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client austiano
+[21Dec2024 03:28:17.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[21Dec2024 03:28:17.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[21Dec2024 03:28:17.729] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[21Dec2024 03:28:17.729] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 427413, 455564
+[21Dec2024 03:28:17.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
