@@ -1054,3 +1054,11 @@
 [21Dec2024 04:20:52.423] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@243f5c77
 [21Dec2024 04:20:52.429] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5a1fa8bd
 [21Dec2024 04:20:52.430] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@275a4d1f
+[21Dec2024 04:23:22.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Keep Going]
+[21Dec2024 04:24:56.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[21Dec2024 04:24:57.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 04:24:57.620] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 04:25:06.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['austiano'/34, l='ServerLevel[world]', x=-50.25, y=134.00, z=-13.46] died: entity.hordes.ZombiePlayer.chat burned to death
+[21Dec2024 04:25:30.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/48540, l='ServerLevel[world]', x=-52.52, y=129.00, z=211.14]
+[21Dec2024 04:25:58.306] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10589d2f
+[21Dec2024 04:27:14.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:268:219:57:9:false:0:Internal-overworld-waypoints

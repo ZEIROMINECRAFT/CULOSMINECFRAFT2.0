@@ -17093,3 +17093,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 04:21:23.031] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
 [21Dec2024 04:21:23.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 04:21:23.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:22:19.846] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Dec2024 04:23:22.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Keep Going]
+[21Dec2024 04:23:22.974] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_22613_ with desc (Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/phys/Vec3;)V
+[21Dec2024 04:23:22.985] [Server thread/DEBUG] [mixin/]: Mixing BehaviorUtilsMixin from enhancedai.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[21Dec2024 04:23:22.986] [Server thread/DEBUG] [mixin/]: enhancedai.mixins.json:BehaviorUtilsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[21Dec2024 04:23:22.991] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.compat118minus.LookTargetUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[21Dec2024 04:23:22.993] [Server thread/DEBUG] [mixin/]: pehkui.mixins.json:compat116plus.compat118minus.LookTargetUtilMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[21Dec2024 04:23:47.883] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[21Dec2024 04:23:47.892] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[21Dec2024 04:23:49.880] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[21Dec2024 04:23:56.110] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[21Dec2024 04:23:57.127] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[21Dec2024 04:24:56.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[21Dec2024 04:24:57.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 04:24:57.620] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 04:25:06.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['austiano'/34, l='ServerLevel[world]', x=-50.25, y=134.00, z=-13.46] died: entity.hordes.ZombiePlayer.chat burned to death
+[21Dec2024 04:25:29.486] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[21Dec2024 04:25:30.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/48540, l='ServerLevel[world]', x=-52.52, y=129.00, z=211.14]
+[21Dec2024 04:25:39.765] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Dec2024 04:25:39.765] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Dec2024 04:25:58.306] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10589d2f
+[21Dec2024 04:26:22.874] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[21Dec2024 04:26:22.875] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[21Dec2024 04:26:22.875] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[21Dec2024 04:26:22.877] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[21Dec2024 04:26:22.883] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[21Dec2024 04:26:22.886] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[21Dec2024 04:26:23.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:26:23.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:27:14.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ripley_01X> xaero-waypoint:Shared Location:S:268:219:57:9:false:0:Internal-overworld-waypoints
+[21Dec2024 04:28:53.225] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[21Dec2024 04:29:00.365] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Dec2024 04:29:05.439] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[21Dec2024 04:29:05.629] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[21Dec2024 04:29:09.487] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[21Dec2024 04:30:33.930] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[21Dec2024 04:31:06.883] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[21Dec2024 04:31:11.087] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[21Dec2024 04:31:22.875] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[21Dec2024 04:31:22.876] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[21Dec2024 04:31:22.877] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Dec2024 04:31:22.878] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Dec2024 04:31:22.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:31:22.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
