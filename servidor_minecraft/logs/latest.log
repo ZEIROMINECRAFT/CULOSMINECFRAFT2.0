@@ -1117,3 +1117,25 @@
 [21Dec2024 03:28:17.729] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
 [21Dec2024 03:28:17.729] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 427413, 455564
 [21Dec2024 03:28:17.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[21Dec2024 03:48:55.850] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d43d181
+[21Dec2024 03:48:55.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01X[/127.179.225.121:35609] logged in with entity id 763091 at (274.5026267451795, 120.0, 54.506773167772)
+[21Dec2024 03:48:55.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X joined the game
+[21Dec2024 03:48:55.933] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 03:48:55.992] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[21Dec2024 03:48:56.122] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:20:38 at 427413, 455564
+[21Dec2024 03:48:56.442] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01X (17)
+[21Dec2024 03:48:56.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01X
+[21Dec2024 03:48:56.916] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[21Dec2024 03:48:56.924] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-12-19_04-26-53.zip"
+[21Dec2024 03:49:34.095] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f2e89cb
+[21Dec2024 03:49:34.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiano[/127.146.137.114:37939] logged in with entity id 767067 at (271.69999998807907, 162.0, 50.7147979937641)
+[21Dec2024 03:49:34.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano joined the game
+[21Dec2024 03:49:34.174] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 03:49:34.298] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 35dffef6-6ad5-3c9e-b1d4-a21bbf79b134
+[21Dec2024 03:49:34.589] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of austiano (17)
+[21Dec2024 03:49:34.590] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to austiano
+[21Dec2024 03:49:43.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 03:49:43.490] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 03:56:39.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Ripley_01X
+[21Dec2024 03:56:46.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 03:56:46.332] [Server thread/INFO] [tac/]: PENDING
