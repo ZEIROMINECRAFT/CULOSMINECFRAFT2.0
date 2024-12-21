@@ -1043,3 +1043,29 @@
 [21Dec2024 02:02:59.851] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10783 in minecraft:the_end
 [21Dec2024 02:02:59.852] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10783 in deceasedcraft:abyss
 [21Dec2024 02:02:59.868] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10783 in minecraft:overworld
+[21Dec2024 02:16:54.689] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7304 in minecraft:the_nether
+[21Dec2024 02:16:54.694] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7304 in lostcities:lostcity
+[21Dec2024 02:16:54.697] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7304 in minecraft:the_end
+[21Dec2024 02:16:54.697] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7304 in deceasedcraft:abyss
+[21Dec2024 02:16:54.718] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7304 in minecraft:overworld
+[21Dec2024 02:28:31.387] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10067 in minecraft:the_nether
+[21Dec2024 02:28:31.397] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10067 in lostcities:lostcity
+[21Dec2024 02:28:31.400] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10067 in minecraft:the_end
+[21Dec2024 02:28:31.408] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10067 in deceasedcraft:abyss
+[21Dec2024 02:28:31.423] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10067 in minecraft:overworld
+[21Dec2024 02:29:05.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Acquire Hardware]
+[21Dec2024 02:30:19.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <austiano> -297 135 -504
+[21Dec2024 02:32:00.952] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7aca0848
+[21Dec2024 02:32:00.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01X[/127.179.225.121:41593] logged in with entity id 368429 at (-294.7008458953156, 102.0, 280.133457943948)
+[21Dec2024 02:32:00.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X joined the game
+[21Dec2024 02:32:00.993] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 02:32:01.037] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[21Dec2024 02:32:03.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Dec2024 02:32:04.104] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01X (17)
+[21Dec2024 02:32:04.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01X
+[21Dec2024 02:33:55.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Zombie
+[21Dec2024 02:33:56.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 02:33:56.838] [Server thread/INFO] [tac/]: PENDING
+[21Dec2024 02:34:18.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X was slain by Husk
+[21Dec2024 02:34:20.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Dec2024 02:34:20.417] [Server thread/INFO] [tac/]: PENDING
