@@ -1075,3 +1075,14 @@
 [21Dec2024 04:50:48.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 1.1581115882550534
 [21Dec2024 04:50:48.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38040841036672646
 [21Dec2024 04:50:48.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ripley_01X) moved wrongly! 0.38150594802198157
+[21Dec2024 04:52:01.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Dec2024 04:53:16.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano has made the advancement [Mine? Mine? Mine?]
+[21Dec2024 04:55:43.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Sweet Dreams]
+[21Dec2024 04:55:50.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Mine? Mine? Mine?]
+[21Dec2024 04:56:50.686] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7910 in minecraft:the_end
+[21Dec2024 04:56:50.688] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7910 in lostcities:lostcity
+[21Dec2024 04:56:50.689] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7910 in deceasedcraft:abyss
+[21Dec2024 04:56:50.690] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7910 in minecraft:the_nether
+[21Dec2024 04:56:50.715] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7910 in minecraft:overworld
+[21Dec2024 05:00:40.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has completed the challenge [I'm not sugar coating it]
+[21Dec2024 05:00:51.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has completed the challenge [Yo mama so fat, she can summon zombies]

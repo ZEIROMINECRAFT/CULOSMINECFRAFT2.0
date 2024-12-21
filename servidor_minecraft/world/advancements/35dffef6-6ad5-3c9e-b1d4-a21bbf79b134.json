@@ -373,6 +373,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-21 04:53:16 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-18 03:59:43 +0000"
@@ -410,6 +416,7 @@
       "rocky_shrubland": "2024-12-19 00:31:48 +0000",
       "highland": "2024-12-19 00:32:13 +0000",
       "clover_patch": "2024-12-18 23:57:06 +0000",
+      "redwood_forest": "2024-12-21 04:52:02 +0000",
       "rocky_rainforest": "2024-12-21 01:56:38 +0000",
       "grassland": "2024-12-19 00:32:15 +0000",
       "rainforest": "2024-12-18 23:40:06 +0000"
