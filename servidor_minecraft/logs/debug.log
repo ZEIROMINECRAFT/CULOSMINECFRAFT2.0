@@ -16771,3 +16771,58 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 00:19:23.707] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
 [22Dec2024 00:19:23.707] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
 [22Dec2024 00:19:23.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[22Dec2024 00:19:38.982] [Worker-Main8/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ussnavy
+[22Dec2024 00:19:41.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by The Wheezer
+[22Dec2024 00:19:52.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Dec2024 00:19:52.369] [Server thread/INFO] [tac/]: PENDING
+[22Dec2024 00:19:59.472] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8546 in lostcities:lostcity
+[22Dec2024 00:19:59.473] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8546 in minecraft:the_nether
+[22Dec2024 00:19:59.473] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8546 in deceasedcraft:abyss
+[22Dec2024 00:19:59.474] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8546 in minecraft:the_end
+[22Dec2024 00:19:59.512] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8546 in minecraft:overworld
+[22Dec2024 00:22:12.938] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Dec2024 00:22:25.832] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Dec2024 00:22:25.841] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Dec2024 00:22:54.176] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[22Dec2024 00:22:54.207] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[22Dec2024 00:22:54.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 00:22:54.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 00:23:11.530] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[22Dec2024 00:24:45.135] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[22Dec2024 00:25:03.416] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[22Dec2024 00:25:03.428] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[22Dec2024 00:25:03.439] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[22Dec2024 00:25:03.478] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[22Dec2024 00:25:03.634] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[22Dec2024 00:25:03.696] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[22Dec2024 00:25:03.789] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[22Dec2024 00:25:04.039] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[22Dec2024 00:25:04.102] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[22Dec2024 00:25:04.233] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[22Dec2024 00:25:04.266] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[22Dec2024 00:25:04.352] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[22Dec2024 00:25:04.379] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[22Dec2024 00:25:04.391] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[22Dec2024 00:25:04.403] [Worker-Main13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[22Dec2024 00:25:14.066] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[22Dec2024 00:25:14.075] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[22Dec2024 00:25:46.062] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Dec2024 00:27:54.177] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[22Dec2024 00:27:54.180] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[22Dec2024 00:27:54.180] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[22Dec2024 00:27:54.181] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[22Dec2024 00:27:54.194] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[22Dec2024 00:27:54.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 00:27:54.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 00:29:05.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: austiano was slain by Zombie
+[22Dec2024 00:29:05.048] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Dec2024 00:29:05.050] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[22Dec2024 00:29:05.051] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[22Dec2024 00:29:05.051] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[22Dec2024 00:29:05.052] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[22Dec2024 00:29:05.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Dec2024 00:29:06.044] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[22Dec2024 00:29:06.044] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[22Dec2024 00:29:06.049] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[22Dec2024 00:29:11.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Dec2024 00:29:11.411] [Server thread/INFO] [tac/]: PENDING
