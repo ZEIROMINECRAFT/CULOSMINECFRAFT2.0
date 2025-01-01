@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2025-01-01 02:09:35 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
@@ -181,7 +187,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-01-01 02:03:48 +0000"
+      "baked_potato": "2025-01-01 02:03:48 +0000",
+      "cookie": "2025-01-01 02:14:48 +0000",
+      "salmon": "2025-01-01 02:12:45 +0000",
+      "melon_slice": "2025-01-01 02:14:15 +0000"
     },
     "done": false
   },
@@ -436,6 +445,7 @@
       "minecraft:savanna_plateau": "2024-12-18 04:53:25 +0000",
       "minecraft:river": "2024-12-21 04:50:19 +0000",
       "minecraft:stony_shore": "2024-12-21 02:37:04 +0000",
+      "minecraft:grove": "2025-01-01 02:07:01 +0000",
       "minecraft:jagged_peaks": "2024-12-21 02:35:05 +0000",
       "minecraft:forest": "2024-12-18 04:54:12 +0000",
       "minecraft:ocean": "2024-12-21 04:49:55 +0000",
@@ -677,6 +687,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-18 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-01 02:09:35 +0000"
     },
     "done": true
   },
