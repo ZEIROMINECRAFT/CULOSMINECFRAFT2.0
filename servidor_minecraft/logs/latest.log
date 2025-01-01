@@ -1041,3 +1041,8 @@
 [01Jan2025 02:25:10.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [01Jan2025 02:25:10.946] [Server thread/INFO] [tac/]: PENDING
 [01Jan2025 02:25:16.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Ripley_01X'/298447, l='ServerLevel[world]', x=389.53, y=78.00, z=341.82] died: entity.hordes.ZombiePlayer.chat died
+[01Jan2025 02:32:32.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[01Jan2025 02:32:32.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[01Jan2025 02:32:32.022] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[01Jan2025 02:32:32.022] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 657804, 733652
+[01Jan2025 02:32:32.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X

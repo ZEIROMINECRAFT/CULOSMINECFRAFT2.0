@@ -17277,3 +17277,53 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jan2025 02:25:16.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Ripley_01X'/298447, l='ServerLevel[world]', x=389.53, y=78.00, z=341.82] died: entity.hordes.ZombiePlayer.chat died
 [01Jan2025 02:26:12.358] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [01Jan2025 02:26:47.123] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[01Jan2025 02:28:56.204] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[01Jan2025 02:29:32.208] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Jan2025 02:29:32.208] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Jan2025 02:30:04.932] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[01Jan2025 02:30:04.933] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[01Jan2025 02:30:04.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[01Jan2025 02:30:04.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[01Jan2025 02:30:04.945] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[01Jan2025 02:30:04.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[01Jan2025 02:30:04.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[01Jan2025 02:30:04.960] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[01Jan2025 02:30:04.961] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[01Jan2025 02:30:04.963] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[01Jan2025 02:30:04.964] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[01Jan2025 02:30:04.967] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[01Jan2025 02:30:04.970] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[01Jan2025 02:30:04.982] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[01Jan2025 02:30:04.986] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[01Jan2025 02:30:05.000] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[01Jan2025 02:30:05.000] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[01Jan2025 02:30:05.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 02:30:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 02:31:56.072] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[01Jan2025 02:32:08.179] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[01Jan2025 02:32:32.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Disconnected
+[01Jan2025 02:32:32.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[01Jan2025 02:32:32.022] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[01Jan2025 02:32:32.022] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 657804, 733652
+[01Jan2025 02:32:32.023] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: false rainTime: 0, thundering: false, thunderTime 0, weatherTime: 0, randomTickSpeed: 3, doFireTick: true
+[01Jan2025 02:32:32.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[01Jan2025 02:32:32.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ripley_01X
+[01Jan2025 02:32:32.274] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[01Jan2025 02:32:32.274] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[01Jan2025 02:32:34.129] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ServerStatusMixin$ServerStatusSerializerMixin from bcc.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[01Jan2025 02:32:52.558] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Jan2025 02:33:32.166] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main8 shutdown
+[01Jan2025 02:34:32.166] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main14 shutdown
+[01Jan2025 02:35:04.909] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[01Jan2025 02:35:04.909] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[01Jan2025 02:35:04.910] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[01Jan2025 02:35:04.911] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[01Jan2025 02:35:04.913] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[01Jan2025 02:35:04.916] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[01Jan2025 02:35:04.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 02:35:04.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 02:35:32.166] [Worker-Main77/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main77 shutdown
+[01Jan2025 02:36:12.408] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Jan2025 02:36:32.166] [Worker-Main23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main23 shutdown
+[01Jan2025 02:37:32.166] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[01Jan2025 02:38:32.166] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main11 shutdown
