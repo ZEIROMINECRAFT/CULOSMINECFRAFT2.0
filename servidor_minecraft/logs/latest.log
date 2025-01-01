@@ -1016,3 +1016,7 @@
 [01Jan2025 01:40:08.337] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@484fa886
 [01Jan2025 01:40:18.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15999ms or 319 ticks behind
 [01Jan2025 01:41:06.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01Jan2025 01:51:21.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X froze to death
+[01Jan2025 01:51:23.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Jan2025 01:51:23.743] [Server thread/INFO] [tac/]: PENDING
+[01Jan2025 01:58:06.119] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
