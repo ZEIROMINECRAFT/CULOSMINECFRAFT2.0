@@ -1020,3 +1020,24 @@
 [01Jan2025 01:51:23.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [01Jan2025 01:51:23.743] [Server thread/INFO] [tac/]: PENDING
 [01Jan2025 01:58:06.119] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01Jan2025 02:18:39.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [A Glorious Feast]
+[01Jan2025 02:19:56.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X has made the advancement [Crops of the Wild]
+[01Jan2025 02:20:47.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X was kicked for floating too long!
+[01Jan2025 02:20:47.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ripley_01X lost connection: Flying is not enabled on this server
+[01Jan2025 02:20:47.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X left the game
+[01Jan2025 02:20:47.576] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[01Jan2025 02:20:47.578] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 645311, 721159
+[01Jan2025 02:20:47.583] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ripley_01X
+[01Jan2025 02:20:47.661] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 02:22:07.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49417194
+[01Jan2025 02:22:07.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ripley_01X[/127.9.194.121:51559] logged in with entity id 278247 at (399.59871385462384, 72.92159999847412, 297.63552937441165)
+[01Jan2025 02:22:07.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X joined the game
+[01Jan2025 02:22:07.551] [Server thread/INFO] [tac/]: PENDING
+[01Jan2025 02:22:07.605] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d25c56b7-e349-3ae3-804f-0d5feb233108
+[01Jan2025 02:22:07.697] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:01:20 at 645311, 721159
+[01Jan2025 02:22:08.176] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ripley_01X (17)
+[01Jan2025 02:22:08.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ripley_01X
+[01Jan2025 02:25:08.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ripley_01X died
+[01Jan2025 02:25:10.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Jan2025 02:25:10.946] [Server thread/INFO] [tac/]: PENDING
+[01Jan2025 02:25:16.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Ripley_01X'/298447, l='ServerLevel[world]', x=389.53, y=78.00, z=341.82] died: entity.hordes.ZombiePlayer.chat died
